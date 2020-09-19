@@ -19,6 +19,7 @@
 * https://partners.sigfox.com/products/simplepack-office-chair
 * https://www.bma-ergonomics.com/en/smart-office-chair/
 * https://www.humanscale.com/products/product.cfm?group=officeiq
+* https://www.youtube.com/watch?v=Bzr6BBorhuY&ab_channel=NowyStyl
 
 ## hardware
 
