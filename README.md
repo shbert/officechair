@@ -23,6 +23,8 @@
 
 ## hardware
 
+* https://developer.bosch.com/web/xdk/overview
+
 ## software
 
 * https://github.com/bfortuner/smart_chair
