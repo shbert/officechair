@@ -35,6 +35,10 @@
 * https://github.com/abbisk/smart-load-sensing-seat
 * https://github.com/samrudh/smart-chair
 
+## data analysis
+
+* https://becominghuman.ai/deep-learning-for-sensor-based-human-activity-recognition-970ff47c6b6b
+
 # Further information for application
 
 ## unsorted
