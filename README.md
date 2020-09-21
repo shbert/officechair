@@ -34,6 +34,7 @@
 * https://gist.github.com/vvksh/3309981cf88e146893c6
 * https://github.com/abbisk/smart-load-sensing-seat
 * https://github.com/samrudh/smart-chair
+* https://github.com/xdk2mam/xdk2mam/tree/Workbench-3.6/mqtt-sdcard
 
 ## data analysis
 
